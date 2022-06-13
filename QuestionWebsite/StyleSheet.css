@@ -1,0 +1,42 @@
+html{
+    background-color: #242424;
+}
+
+#header{
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-weight: bolder;
+    padding: 5px 0px 15px 10px;
+}
+
+.questionSection{
+    padding: 10px 10px 20px 10px;
+    border-bottom: 10px;
+    background-color:dimgray;
+}
+
+
+.questionArea{
+    background-color: aliceblue;
+    
+    padding: 5px 0px 20px 10px;
+}
+
+
+.questionTextBox{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.questionButton{
+    display: table-cell;
+    table-layout: fixed;
+    vertical-align: middle;
+}
+
+.question{
+    font-family: monospace;
+    color: dimgrey;
+    margin-bottom: -2px;
+    margin-left: -2px;
+}
