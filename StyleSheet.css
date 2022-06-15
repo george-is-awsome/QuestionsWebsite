@@ -26,17 +26,19 @@ html{
 
 .questionTextBox{
     font-family: 'Courier New', Courier, monospace;
+    font-size: 200%;
 }
 
 .questionButton{
     display: table-cell;
-    table-layout: fixed;
-    vertical-align: middle;
+    /*table-layout: fixed;*/
+    vertical-align:bottom;
+    font-size: 200%;
 }
 
 .question{
     font-family: monospace;
     color: dimgrey;
-    margin-bottom: -2px;
+    margin-bottom: -1px;
     margin-left: -2px;
 }
